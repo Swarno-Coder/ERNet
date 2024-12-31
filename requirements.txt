@@ -1,0 +1,6 @@
+torch
+torchvision
+torchinfo
+albumentations
+opencv-python
+scikit-learn
